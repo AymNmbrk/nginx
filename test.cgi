@@ -3,5 +3,5 @@
 print ("Content-Type: text/html")
 print ("")
 
-print('<h1>GOD BLESS YOU ! bro</h1>')
+print('<h1>:(</h1>')
 
